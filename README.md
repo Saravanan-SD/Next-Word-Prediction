@@ -2,8 +2,6 @@
 
 This Jupyter Notebook project demonstrates a pipeline for text processing, tokenization, and sequence generation using an LSTM-based deep learning model. The code handles text cleaning, tokenization, and sequence generation to train an LSTM model, which can then be used to generate text sequences.
 
-![Working](https://github.com/Saravanan-SD/Blog-Generation-using-LLama-2/blob/main/Screenshot%202024-04-03%20115119.png)
-
 ## Overview
 
 1. **Text Cleaning**: Removes unwanted characters like punctuation, HTML tags, URLs, and email addresses.
